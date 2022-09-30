@@ -1,0 +1,21 @@
+1/ il y a 2 branches gh-pages & spdx-license-templates
+
+2/ le numero est #1028
+
+le pull request #550 a commit 2 commits
+
+l'auteur est Mike Linksvayer,le numero du pull request est le #549 et il y a 2 commits
+
+3/
+git checkout HEAD~1 index.html
+
+Le plugin est auto-complete.min.js
+
+git show b30306e502b99aabab256a5d2f68e8d50ba5072a
+
+git reset b30306e502b99aabab256a5d2f68e8d50ba5072a
+
+4/
+
+git fetch origin
+git push -u origin gh-pages
